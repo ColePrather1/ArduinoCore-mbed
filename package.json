@@ -1,0 +1,15 @@
+{
+  "name": "framework-arduino-mbed",
+  "version": "4.0.10",
+  "description": "Arduino Core for Mbed OS",
+  "keywords": [
+    "framework",
+    "arduino",
+    "mbed"
+  ],
+  "homepage": "https://github.com/arduino/ArduinoCore-mbed",
+  "license": "LGPL-2.1-or-later",
+  "dependencies": {
+    "toolchain-gccarmnoneeabi": "^1.70201.0"
+  }
+}
