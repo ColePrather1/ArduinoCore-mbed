@@ -7,7 +7,7 @@
     "arduino",
     "mbed"
   ],
-  "homepage": "https://github.com/arduino/ArduinoCore-mbed",
+  "homepage": "https://github.com/ColePrather1/ArduinoCore-mbed",
   "license": "LGPL-2.1-or-later",
   "dependencies": {
     "toolchain-gccarmnoneeabi": "^1.70201.0"
